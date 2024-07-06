@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_survey_cdn=self.webpackChunkwebpack_survey_cdn||[]).push([["s-checkSessionStorageAvailable.ts"],{1844:function(e,t){t.Z=function(){var e="testName".concat((new Date).toString());try{return window.sessionStorage.setItem(e,"bar"),window.sessionStorage.removeItem(e),!0}catch(e){return!1}}}}]);

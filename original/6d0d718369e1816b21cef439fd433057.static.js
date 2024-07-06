@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_survey_cdn=self.webpackChunkwebpack_survey_cdn||[]).push([["s-checkLocalStorageAvailable.ts"],{1843:function(e,t){t.Z=function(){var e="testName".concat((new Date).toString());try{return window.localStorage.setItem(e,"testValue"),window.localStorage.removeItem(e),!0}catch(e){return!1}}}}]);
